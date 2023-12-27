@@ -1,5 +1,5 @@
 # 🧠 🔶 learn-svelte
 
-| Folder     | Resource             |
-| ---------- | -------------------- |
-| svelte.dev | <https://svelte.dev> |
+| Folder           | Resource                   |
+| ---------------- | -------------------------- |
+| learn.svelte.dev | <https://learn.svelte.dev> |
