@@ -29,6 +29,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"elizabot": "^0.0.3",
 		"marked": "^11.1.0"
 	}
 }
