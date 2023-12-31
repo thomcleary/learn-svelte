@@ -1,4 +1,8 @@
 /* Copied from https://learn.svelte.dev/tutorial */
+:root {
+	--svelte: rgb(249, 103, 67);
+}
+
 body {
 	background-color: rgb(36, 36, 36);
 	color: rgb(204, 204, 204);
@@ -23,5 +27,5 @@ ol > li {
 }
 
 a {
-	color: rgb(249, 103, 67);
+	color: var(--svelte);
 }
