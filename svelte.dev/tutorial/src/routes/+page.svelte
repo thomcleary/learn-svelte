@@ -1,5 +1,6 @@
-<h1>Svelte Tutorial</h1>
-<a href="https://learn.svelte.dev/tutorial">https://learn.svelte.dev/tutorial</a>
+<a href="https://learn.svelte.dev/tutorial">
+	<h1>Svelte Tutorial</h1>
+</a>
 
 <ol>
 	<li><a href="basic-svelte">Basic Svelte</a></li>

@@ -1,4 +1,4 @@
-# [learn.svelte.dev](https://learn.svelte.dev)
+# [svelte.dev](https://svelte.dev)
 
 | Folder   | Resource                            |
 | -------- | ----------------------------------- |
