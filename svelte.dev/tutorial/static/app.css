@@ -1,6 +1,8 @@
 /* Copied from https://learn.svelte.dev/tutorial */
 :root {
 	--svelte: rgb(249, 103, 67);
+	--bg-2: black;
+	--bg-3: var(--svelte);
 }
 
 body {
